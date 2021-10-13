@@ -1,9 +1,19 @@
-### Heyo!
+<h1 align="center">
+  Hey there! My name's Violet
+</h1>
 
-My name's Violet. I love The Walking Dead, storytelling, and all types of video games!
+<p align="center">I'm a complete nerd - I love video games, films, and computers! Most people know me for my work on [Telltale Script Editor](https://github.com/Telltale-Modding-Group/Telltale-Script-Editor), a tool designed to allow for easy modification of games by Telltale.</p>
 
-I'm currently working on the [Telltale Script Editor](https://github.com/Telltale-Modding-Group/Telltale-Script-Editor), an effort by me and a few others to increase the accessibility of modding games built with the Telltale Tool.
+---
+
+### ✨ Follow Me!
+
+- [YouTube](https://www.youtube.com/droyti)
+
+- [Twitter](https://www.twitter.com/droyti)
+
+- [Instagram](https://www.instagram.com/droyti)
 
 ### 👋 I'm always happy to collaborate!
 
-Know something about the Telltale Tool? Have an idea for a mod? Want to talk about the intricaies of The Walking Dead? [Contact me](https://droyti.github.io)!
+Have an idea for a mod? Want to talk about the intricaies of The Walking Dead? [Contact me](mailto:droytibusiness@gmail.com)!
