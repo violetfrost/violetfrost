@@ -2,7 +2,7 @@
   Hey there! My name's Violet
 </h1>
 
-<p align="center">I'm a complete nerd - I love video games, films, and computers! Most people know me for my work on [Telltale Script Editor](https://github.com/Telltale-Modding-Group/Telltale-Script-Editor), a tool designed to allow for easy modification of games by Telltale.</p>
+<p align="center">I'm a complete nerd - I love video games, films, and computers! Most people know me for my work on <a href="https://github.com/telltale-modding-group/telltale-script-editor">Telltale Script Editor</a>, a tool designed to allow for easy modification of games by Telltale.</p>
 
 ---
 
