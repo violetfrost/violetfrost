@@ -1,7 +1,7 @@
 <div align="center">
-  <h3>hi there, i'm violet!</h3>
+  <h3>Hi there, I'm Violet!</h3>
   <div>
-    ☃️ ironically, i dislike cold weather <br>
-    ✨ learn about me on my <a href="">website</a>!<br>
+    ☃️ Ironically, I dislike cold weather. <br>
+    ✨ Learn about me on my <a href="">website</a>!<br>
   </div>
 </div>
